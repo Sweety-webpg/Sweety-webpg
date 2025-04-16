@@ -1,16 +1,18 @@
-## Hi there 👋
+Kandimalla Shivani's Portfolio
 
-<!--
-**Sweety-webpg/Sweety-webpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal portfolio website hosted with GitHub Pages.
 
-Here are some ideas to get you started:
+About Me
+I'm a final-year BTech CSE student with interests in business, marketing, data analysis, blockchain, and SEO. I love turning ideas into impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+- Java
+- Data Analysis
+- SEO & Google Analytics
+- Social Media Advertising
+- Influencer Marketing
+- Blockchain Development
+- Business Development
+
+ Live Website
+Check out my portfolio here: [https://Sweety-webpg.github.io](https://Sweety-webpg.github.io)
