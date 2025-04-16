@@ -17,7 +17,7 @@ View my portfolio live at:
 **[https://sweety-webpg.github.io/Sweety-webpg/](https://sweety-webpg.github.io/Sweety-webpg/)**
 
 ## 📸 Projects
-- **Merging Memories** – A service to merge lost loved ones into cherished photos (starting at ₹299).
+- **Merging Memories** – A service to merge lost loved ones into cherished photos.
 - **Blockchain Project** – Built a secure decentralized system as part of my BTech academic work.
 - **Affiliate Marketing** – Promoted products via Instagram and created content to drive traffic and sales.
 
@@ -25,7 +25,7 @@ View my portfolio live at:
 I’m passionate about telemarketing, influencer marketing, and helping businesses grow through smart communication and creative strategies. My goal is to work in a space where I can use my voice, marketing skills, and personal charm to connect with people, promote great products, and build strong customer relationships. I dream of growing as a marketing professional who blends both tech and talk — and maybe one day, even running my own digital brand!
 
 ## 📬 Let’s Connect
-- **Email**: [kandimallashivani2003@com]
+- **Email**: [kandimallashivani2003@gmail.com]
 - **GitHub**: [@Sweety-webpg](https://sweety-webpg.github.io/Sweety-webpg/)
 
 ---
